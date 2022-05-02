@@ -1,0 +1,13 @@
+************BOOTCAMP PROJECT*****************
+************HTML,CSS,JS****************
+Github Link: https://github.com/acool-786/AartiDevikar.github.io
+*************I can add this project on my Resume**************
+Created this project using HTML,CSS and JS
+Paste your own Image and add your own resume link in see my resume button
+Write something about your own in the website
+Build your own logo
+(4 files included in this folder)
+index.html
+style.css
+Aarti image
+Aarti logo
